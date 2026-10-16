@@ -1,0 +1,32 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+.venv-wsl/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+airflow/.env
+
+# Airflow logs and runtime files
+airflow/logs/*
+!airflow/logs/.gitkeep
+airflow/config/*
+
+# Application logs
+logs/*
+!logs/.gitkeep
+
+# Generated processed data
+data/processed/
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+order_id,customer_id,customer_name,email,city,order_date,product,quantity,unit_price,updated_at
+1001,C001,Ravi Kumar,ravi@example.com,Hyderabad,2026-10-01,Laptop,1,55000,2026-10-01 10:30:00
+1002,C002,Priya Sharma,priya@example.com,Bengaluru,2026-10-02,Mouse,2,750,2026-10-02 11:15:00
+1003,C003,Arjun Reddy,arjun@example.com,Hyderabad,2026-10-03,Keyboard,1,1500,2026-10-03 12:00:00
+1004,C001,Ravi Kumar,ravi@example.com,Hyderabad,2026-10-04,Monitor,1,12000,2026-10-04 09:45:00
+1005,C004,Neha Singh,neha@example.com,Pune,2026-10-05,Headphones,2,2000,2026-10-05 14:20:00
+1006,C005,Kiran Rao,kiran@example.com,Chennai,2026-10-06,Webcam,1,3500,2026-10-06 16:10:00

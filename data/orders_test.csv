@@ -1,0 +1,5 @@
+order_id,customer_id,customer_name,email,city,order_date,product,quantity,unit_price,updated_at
+2001,C101,Asha,asha@example.com,Hyderabad,2026-10-10,Mouse,2,500,2026-10-10 10:00:00
+2002,C102,Rahul,,Pune,2026-10-11,Keyboard,1,1200,2026-10-11 11:00:00
+2002,C103,Meena,meena@example.com,Chennai,2026-10-12,Laptop,1,50000,2026-10-12 12:00:00
+2004,C104,Kiran,kiran@example.com,Delhi,2026-10-13,Monitor,0,8000,2026-10-13 13:00:00
